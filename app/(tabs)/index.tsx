@@ -100,7 +100,4 @@ const styles = StyleSheet.create({
   }
 
 });
-function setGroupedQuizzes(arg0: { title: string; data: QuizDocument[]; }[]) {
-  throw new Error('Function not implemented.');
-}
 
